@@ -2,3 +2,5 @@
 /.vs
 /.vscode
 /.vsconfig
+.gitignore
+Assets/Animation/.DS_Store
